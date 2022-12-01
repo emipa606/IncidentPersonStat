@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WandererJoinTitle>{0}附近有流浪者</WandererJoinTitle>
+  <WandererJoinDesc>{0}是个{1}，流浪到了你的殖民地附近, 想到你的殖民地可能需要更多人手。{0}今年{2}岁。</WandererJoinDesc>
+  <WandererJoinAccept>接受</WandererJoinAccept>
+  <WandererJoinReject>拒绝</WandererJoinReject>
+  <PassionateFor>兴趣</PassionateFor>
+  <PassionateMajor>（狂热）</PassionateMajor>
+  <!--<PassionateMinor>（好奇）</PassionateMinor>-->
+  <RaceInfo>（种族：{0}）</RaceInfo>
+</LanguageData>
