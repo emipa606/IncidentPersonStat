@@ -1,5 +1,8 @@
 # Changelog for IncidentPersonStat
 
+1.5.0 - Mod updated for 1.5 and passed autotests
+
+
 1.4.1 - Missed the harmony-requirement in the about-file
 
 
