@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <WandererJoinTitle>Wanderer join request at {0}</WandererJoinTitle>
   <WandererJoinDesc>{0} is a {1} and wandering near your colony, thinking you may need someone to join the colony.{0} is {2} years old.</WandererJoinDesc>

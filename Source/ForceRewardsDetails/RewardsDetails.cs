@@ -10,6 +10,5 @@ public class RewardsDetails : Mod
         : base(content)
     {
         new Harmony("Vanya.Tools.ForceRewardsDetails").PatchAll(Assembly.GetExecutingAssembly());
-        Log.Message("[ForceRewardsDetails] applied.");
     }
 }
